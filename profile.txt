@@ -1,2 +1,3 @@
-Name: Nguyễn Thanh 
+Name: 
 Interests: Coding, Design
+Skills: HTML, CSS, Git
